@@ -1,10 +1,10 @@
-<h1>scss ile Yapilan Projem<h1>
+<h1>scss ile Yapılan Projem<h1>
 
-Scss ile Yapilmis Proje tanitimi
+Scss ile Yapılmıs Proje tanıtımı
 
-<h2> Kullanilan Teknolojiler<h2>
+<h2> Kullanılan Teknolojiler<h2>
 
-HTML CSS SCSS ile kodlandilar
+HTML CSS SCSS ile kodlandılar
 
 <h2> Ekran Görüntüsü<h2>
 

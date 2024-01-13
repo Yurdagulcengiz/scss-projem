@@ -9,3 +9,4 @@ HTML CSS SCSS ile kodlandilar
 <h2> Ekran Görüntüsü<h2>
 
 ![](ekran.gif.gif)
+# scss-projem
